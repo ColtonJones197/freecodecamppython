@@ -1,2 +1,2 @@
 # FCC code camp python solutions
-Solutions to some of the [https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody](free code camp python for everyone course) that I wrote as part of my 100 days of code
+Solutions to some of the [free code camp python course](https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody) that I wrote as part of my 100 days of code
